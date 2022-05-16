@@ -150,7 +150,7 @@ roslaunch turtlebot3_gazebo turtlebot3_multi_map0.launch
 <arg name="7_tb3_yaw"   default=" 1.57"/>
 ```
 
-
+![multi-robot](https://github.com/auto-swarm/auto-swarm/blob/new/src/simulation/turtlebot3_gazebo/assets/multi_robot.png)
 
 issue:
 
